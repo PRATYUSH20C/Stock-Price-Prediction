@@ -13,6 +13,7 @@ Data Set Link: https://www.kaggle.com/rohanrao/nifty50-stock-market-data?select=
 Solution: 
 
 •	Module used : 
+
                         Numpy,  Matplotlib, Pandas, Tensorflow,
                         Sklearn
 
