@@ -2,7 +2,6 @@
 Infosys Stock Price Detection  Model
 
 Responsibilities:
-
              Topic: INFOSYS Stock Price Prediction
 
 Problem Statement:  Importing necessary libraries,
