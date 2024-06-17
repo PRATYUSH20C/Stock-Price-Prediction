@@ -13,11 +13,7 @@ Data Set Link: https://www.kaggle.com/rohanrao/nifty50-stock-market-data?select=
 
 Solution: 
 
-•	Module used : 
-
-                        Numpy,  Matplotlib, Pandas, Tensorflow,
-                        Sklearn
-
+•	Module used: Numpy,  Matplotlib, Pandas, Tensorflow, Sklearn
 
 •	The given set of data is divided into two half , such that 75% training and 25% testing.
 LSTM Networks
